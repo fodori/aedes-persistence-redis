@@ -34,7 +34,7 @@
     "tape": "^4.9.1"
   },
   "dependencies": {
-    "aedes-cached-persistence": "^6.0.0",
+    "aedes-cached-persistence": "https://github.com/fodori/aedes-cached-persistence",
     "from2": "^2.3.0",
     "hashlru": "^2.2.1",
     "ioredis": "^3.2.2",
